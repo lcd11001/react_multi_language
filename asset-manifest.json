@@ -2,7 +2,7 @@
   "files": {
     "static/js/0.d562a350.chunk.js": "/neko_website/static/js/0.d562a350.chunk.js",
     "static/js/1.449167f2.chunk.js": "/neko_website/static/js/1.449167f2.chunk.js",
-    "main.js": "/neko_website/static/js/main.b74c42e4.chunk.js",
+    "main.js": "/neko_website/static/js/main.0964d868.chunk.js",
     "runtime-main.js": "/neko_website/static/js/runtime-main.2bb8c0db.js",
     "static/js/4.430938c6.chunk.js": "/neko_website/static/js/4.430938c6.chunk.js",
     "static/js/5.fdd06519.chunk.js": "/neko_website/static/js/5.fdd06519.chunk.js",
@@ -15,7 +15,7 @@
     "static/js/11.651148ea.chunk.js": "/neko_website/static/js/11.651148ea.chunk.js",
     "static/js/12.6b025743.chunk.js": "/neko_website/static/js/12.6b025743.chunk.js",
     "index.html": "/neko_website/index.html",
-    "precache-manifest.c39d4add675f1aa21246aef9dafff26d.js": "/neko_website/precache-manifest.c39d4add675f1aa21246aef9dafff26d.js",
+    "precache-manifest.3f33bf9e4607e39ebcbb1b465bf64ac5.js": "/neko_website/precache-manifest.3f33bf9e4607e39ebcbb1b465bf64ac5.js",
     "service-worker.js": "/neko_website/service-worker.js",
     "static/js/4.430938c6.chunk.js.LICENSE.txt": "/neko_website/static/js/4.430938c6.chunk.js.LICENSE.txt",
     "static/media/styles.css": "/neko_website/static/media/revicons.2feb69cc.eot"
@@ -23,6 +23,6 @@
   "entrypoints": [
     "static/js/runtime-main.2bb8c0db.js",
     "static/js/4.430938c6.chunk.js",
-    "static/js/main.b74c42e4.chunk.js"
+    "static/js/main.0964d868.chunk.js"
   ]
 }
