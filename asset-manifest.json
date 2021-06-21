@@ -1,0 +1,28 @@
+{
+  "files": {
+    "static/js/0.d562a350.chunk.js": "/neko_website/static/js/0.d562a350.chunk.js",
+    "static/js/1.449167f2.chunk.js": "/neko_website/static/js/1.449167f2.chunk.js",
+    "main.js": "/neko_website/static/js/main.6c69fa5e.chunk.js",
+    "runtime-main.js": "/neko_website/static/js/runtime-main.2bb8c0db.js",
+    "static/js/4.430938c6.chunk.js": "/neko_website/static/js/4.430938c6.chunk.js",
+    "static/js/5.fdd06519.chunk.js": "/neko_website/static/js/5.fdd06519.chunk.js",
+    "static/css/6.99717f2b.chunk.css": "/neko_website/static/css/6.99717f2b.chunk.css",
+    "static/js/6.89d1c7fd.chunk.js": "/neko_website/static/js/6.89d1c7fd.chunk.js",
+    "static/js/7.5aa1ab3f.chunk.js": "/neko_website/static/js/7.5aa1ab3f.chunk.js",
+    "static/js/8.3ab98c71.chunk.js": "/neko_website/static/js/8.3ab98c71.chunk.js",
+    "static/js/9.6c052c7a.chunk.js": "/neko_website/static/js/9.6c052c7a.chunk.js",
+    "static/js/10.4c25bc9c.chunk.js": "/neko_website/static/js/10.4c25bc9c.chunk.js",
+    "static/js/11.651148ea.chunk.js": "/neko_website/static/js/11.651148ea.chunk.js",
+    "static/js/12.6b025743.chunk.js": "/neko_website/static/js/12.6b025743.chunk.js",
+    "index.html": "/neko_website/index.html",
+    "precache-manifest.784081b2a5272ccfe24805cb76391086.js": "/neko_website/precache-manifest.784081b2a5272ccfe24805cb76391086.js",
+    "service-worker.js": "/neko_website/service-worker.js",
+    "static/js/4.430938c6.chunk.js.LICENSE.txt": "/neko_website/static/js/4.430938c6.chunk.js.LICENSE.txt",
+    "static/media/styles.css": "/neko_website/static/media/revicons.2feb69cc.eot"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2bb8c0db.js",
+    "static/js/4.430938c6.chunk.js",
+    "static/js/main.6c69fa5e.chunk.js"
+  ]
+}
