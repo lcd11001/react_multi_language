@@ -1,28 +1,28 @@
 {
   "files": {
-    "static/js/0.d562a350.chunk.js": "/neko_website/static/js/0.d562a350.chunk.js",
-    "static/js/1.449167f2.chunk.js": "/neko_website/static/js/1.449167f2.chunk.js",
-    "main.js": "/neko_website/static/js/main.0964d868.chunk.js",
-    "runtime-main.js": "/neko_website/static/js/runtime-main.2bb8c0db.js",
-    "static/js/4.430938c6.chunk.js": "/neko_website/static/js/4.430938c6.chunk.js",
-    "static/js/5.fdd06519.chunk.js": "/neko_website/static/js/5.fdd06519.chunk.js",
-    "static/css/6.99717f2b.chunk.css": "/neko_website/static/css/6.99717f2b.chunk.css",
-    "static/js/6.89d1c7fd.chunk.js": "/neko_website/static/js/6.89d1c7fd.chunk.js",
-    "static/js/7.5aa1ab3f.chunk.js": "/neko_website/static/js/7.5aa1ab3f.chunk.js",
-    "static/js/8.3ab98c71.chunk.js": "/neko_website/static/js/8.3ab98c71.chunk.js",
-    "static/js/9.6c052c7a.chunk.js": "/neko_website/static/js/9.6c052c7a.chunk.js",
-    "static/js/10.4c25bc9c.chunk.js": "/neko_website/static/js/10.4c25bc9c.chunk.js",
-    "static/js/11.651148ea.chunk.js": "/neko_website/static/js/11.651148ea.chunk.js",
-    "static/js/12.6b025743.chunk.js": "/neko_website/static/js/12.6b025743.chunk.js",
-    "index.html": "/neko_website/index.html",
-    "precache-manifest.3f33bf9e4607e39ebcbb1b465bf64ac5.js": "/neko_website/precache-manifest.3f33bf9e4607e39ebcbb1b465bf64ac5.js",
-    "service-worker.js": "/neko_website/service-worker.js",
-    "static/js/4.430938c6.chunk.js.LICENSE.txt": "/neko_website/static/js/4.430938c6.chunk.js.LICENSE.txt",
-    "static/media/styles.css": "/neko_website/static/media/revicons.2feb69cc.eot"
+    "static/js/0.d562a350.chunk.js": "/react_multi_language/static/js/0.d562a350.chunk.js",
+    "static/js/1.449167f2.chunk.js": "/react_multi_language/static/js/1.449167f2.chunk.js",
+    "main.js": "/react_multi_language/static/js/main.c057c758.chunk.js",
+    "runtime-main.js": "/react_multi_language/static/js/runtime-main.00e31270.js",
+    "static/js/4.58777ef2.chunk.js": "/react_multi_language/static/js/4.58777ef2.chunk.js",
+    "static/js/5.fdd06519.chunk.js": "/react_multi_language/static/js/5.fdd06519.chunk.js",
+    "static/css/6.7dcc1b73.chunk.css": "/react_multi_language/static/css/6.7dcc1b73.chunk.css",
+    "static/js/6.89d1c7fd.chunk.js": "/react_multi_language/static/js/6.89d1c7fd.chunk.js",
+    "static/js/7.5aa1ab3f.chunk.js": "/react_multi_language/static/js/7.5aa1ab3f.chunk.js",
+    "static/js/8.3ab98c71.chunk.js": "/react_multi_language/static/js/8.3ab98c71.chunk.js",
+    "static/js/9.6c052c7a.chunk.js": "/react_multi_language/static/js/9.6c052c7a.chunk.js",
+    "static/js/10.4c25bc9c.chunk.js": "/react_multi_language/static/js/10.4c25bc9c.chunk.js",
+    "static/js/11.651148ea.chunk.js": "/react_multi_language/static/js/11.651148ea.chunk.js",
+    "static/js/12.6b025743.chunk.js": "/react_multi_language/static/js/12.6b025743.chunk.js",
+    "index.html": "/react_multi_language/index.html",
+    "precache-manifest.dc74ceedc5633f5e0c05a364ce8a45a2.js": "/react_multi_language/precache-manifest.dc74ceedc5633f5e0c05a364ce8a45a2.js",
+    "service-worker.js": "/react_multi_language/service-worker.js",
+    "static/js/4.58777ef2.chunk.js.LICENSE.txt": "/react_multi_language/static/js/4.58777ef2.chunk.js.LICENSE.txt",
+    "static/media/styles.css": "/react_multi_language/static/media/revicons.2feb69cc.eot"
   },
   "entrypoints": [
-    "static/js/runtime-main.2bb8c0db.js",
-    "static/js/4.430938c6.chunk.js",
-    "static/js/main.0964d868.chunk.js"
+    "static/js/runtime-main.00e31270.js",
+    "static/js/4.58777ef2.chunk.js",
+    "static/js/main.c057c758.chunk.js"
   ]
 }
