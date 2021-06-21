@@ -60,7 +60,7 @@
     "redux-devtools-extension": "^2.13.9",
     "xlsx": "^0.16.9"
   },
-  "homepage": "http://lcd11001.github.io/react_multi_language",
+  "homepage": "https://lcd11001.github.io/react_multi_language",
   "browserslist": {
     "production": [
       ">0.2%",
