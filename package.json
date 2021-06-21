@@ -1,0 +1,76 @@
+{
+  "name": "react_multi_language",
+  "version": "1.0.0",
+  "description": "ReactJS Multi Language Template",
+  "main": "index.js",
+  "dependencies": {
+    "@material-ui/core": "^4.11.4",
+    "@material-ui/icons": "^4.11.2",
+    "@material-ui/lab": "^4.0.0-alpha.58",
+    "@n8tb1t/use-scroll-position": "^2.0.3",
+    "axios": "^0.21.1",
+    "emailjs-com": "^2.6.4",
+    "framer-motion": "^2.9.5",
+    "i18next": "^19.9.2",
+    "lodash": "^4.17.21",
+    "moment": "^2.29.1",
+    "react": "^16.14.0",
+    "react-dom": "^16.14.0",
+    "react-i18next": "^11.8.15",
+    "react-intersection-observer": "^8.31.1",
+    "react-multi-carousel": "^2.6.2",
+    "react-redux": "^7.2.4",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "3.4.3",
+    "react-visibility-sensor": "^5.1.1",
+    "react-water-wave": "^1.0.5",
+    "recompose": "^0.30.0",
+    "redux": "^4.1.0",
+    "redux-promise-middleware": "^6.1.2",
+    "redux-thunk": "^2.3.0"
+  },
+  "scripts": {
+    "start": "env-cmd -f ./.env.local react-scripts start",
+    "start-beta": "env-cmd -f .env.beta npm run start",
+    "start-gold": "env-cmd -f .env.gold npm run start",
+    "build": "node tools/GenerateBuildNumber && react-scripts build",
+    "build-beta": "env-cmd -f .env.beta npm run build",
+    "build-gold": "env-cmd -f .env.gold npm run build",
+    "obfuscate": "javascript-obfuscator ./build --output ./obfuscated --compact true --control-flow-flattening false --dead-code-injection false --debug-protection false --debug-protection-interval false --disable-console-output true --identifier-names-generator hexadecimal --log false --rename-globals false --rotate-string-array true --self-defending true --shuffle-string-array true --split-strings true --string-array true --string-array-encoding none --string-array-threshold 0.75 --unicode-escape-sequence false",
+    "predeploy": "call predeploy.bat",
+    "deploy": "gh-pages -d deploy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lcd11001/react_multi_language.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lcd11001/react_multi_language/issues"
+  },
+  "devDependencies": {
+    "env-cmd": "^10.1.0",
+    "gh-pages": "^3.1.0",
+    "javascript-obfuscator": "^2.12.0",
+    "json-loader": "^0.5.7",
+    "opencollective": "^1.0.3",
+    "path": "^0.12.7",
+    "redux-devtools-extension": "^2.13.9",
+    "xlsx": "^0.16.9"
+  },
+  "homepage": "http://lcd11001.github.io/react_multi_language",
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
