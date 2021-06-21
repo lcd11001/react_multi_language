@@ -17,4 +17,4 @@
 - [Document][2]
 
 [1]: https://lcd11001.github.io/react_multi_language
-[2]: https://hackernoon.com/use-custom-domain-with-github-pages-2-straightforward-steps-cf561eee244f
+[2]: https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site
